@@ -234,6 +234,7 @@ public class MainActivity extends Activity {
                 mGetFeaturesButton.setEnabled(true);
                 mReadKeyButton.setEnabled(true);
                 mDisplayLcdMessageButton.setEnabled(true);
+                
             }
         }
     }
