@@ -1,0 +1,2 @@
+rootProject.name='NFC-P2P-Demo-App'
+include ':app'
